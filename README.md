@@ -1,2 +1,0 @@
-# arnavshukla.co
-My Website
