@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>XINO 2020</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+</head>
+<body>
+	<div class="topbar">
+		<div class="h">
+			<a href="https://drive.google.com/open?id=1iw6DZarGxut9JqOlVxkO1-PxN2rDNktb"><div class="button b2">Invite</div></a>
+			<a href="https://xino.in/register/"><div class="button b1">Register</div></a>
+			<img src="logo.png" alt="logo" class="im">
+		</div>
+	</div>
+	
+	<div class="section1">
+		<div class="left">
+			<div class="maintext">
+				XINO 2020
+			</div>
+			
+			<div class="smalltext">
+				Extreme Innovation
+			</div>
+			<div class="h2">
+				<a href="#events" class="event-details-btn"><div class="button2">Event Details</div></a>
+			</div>
+		</div>
+		<div class="right">
+			<img src="workspace2.jpg" class="resize">
+		</div>
+	</div>
+	
+	<div class="section2">
+		<div class="heading">POWERED BY</div>
+		<div class="logos">
+			<a href="https://www.jamboreeindia.com/">
+				<div class="sp-logo">
+					<img src="sp1-overlay.png" class="overlay-logo">
+					<img src="sp1.png" class="original-logo">
+				</div>
+			</a>
+			<a href="http://www.megalogix.org/">
+				<div class="sp-logo">
+					<img src="sp2-overlay.png" class="overlay-logo">
+					<img src="sp2.png" class="original-logo">
+				</div>
+			</a>			
+		</div>
+	</div>
+	
+	<div class="section3">
+		<div class="heading2">Who are we?</div>
+		<div class="subheading2">A bunch of technology enthusiasts</div>
+		<div class="longtext">
+			XINO, the computer club of DPS Rohini comprises of die hard fanatics of technology whose passion for the technological science verges on borderline crazy. We comprise of 25+ brilliant minds, each posessing a unique perspective of analysing the world around us.<br><br>
+			
+			
+			"When all think alike, then no one is thinking." We value different ideas, dreams and aspirations of our members and work our best to turn those dreams into reality. "It isn't the incompetent who destroy an organization. The incompetent never get in a position to destroy it. It is those who achieved something and want to rest upon their achievements who are forever clogging things up". We appreciate our achievements but never stop our crusade to acheive long lasting glory in the field of technological sciences. We have taken the competition scene in Delhi by storm, winning innummerable events but never letting it get in our way of learning.
+		</div>
+		
+		
+	</div>
+	
+	<div class="section4">
+		<div class="heading2">Meet Our Team</div>
+		<div class="subheading2">The people who make it happen</div>
+		
+		<div class="members">
+			
+			
+			<div class="mem">
+				<img src="members/Siddhant.jpg">
+				<h4>Siddhant Singh</h4>
+				<div class="viewer">
+					<p>Secretary</p>
+					<p>Designer</p>
+				</div>
+			</div>
+			
+			<div class="mem">
+				<img src="members/Nikita.jpg">
+				<h4>Nikita Agarwal </h4>
+				<div class="viewer">
+					<p>Secretary</p>
+					<p>Designer</p>
+				</div>
+			</div>
+			
+			<div class="mem">
+				<img src="members/Shaurya.jpg">
+				<h4>Shaurya Bajaj</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Quizzer</p>
+				</div>
+			</div>
+			<div class="mem">
+				<img src="members/Kushagra.jpg">
+				<h4>Kushagra Gupta</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Programmer</p>
+				</div>
+			</div>
+			<div class="mem">
+				<img src="members/Shaunak.jpg">
+				<h4>Shaunak Sachdev</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Quizzer</p>
+				</div>
+			</div>
+			<div class="mem">
+				<img src="members/Manit.jpg">
+				<h4>Manit Kaushik</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Quizzer</p>
+				</div>
+			</div>
+			<div class="mem">
+				<img src="members/Harsh.jpg">
+				<h4>Harsh Pruthi</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Video Editor</p>
+				</div>
+			</div>
+			<div class="mem">
+				<img src="members/Moaksh.jpg">
+				<h4>Moaksh Kakar</h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Designer</p>
+				</div>
+			<div class="mem">
+				<img src="members/more.jpg">
+				<h4>Ankur Pandey </h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Video Editor</p>
+				</div>
+			<div class="mem">
+				<img src="members/Pranjal.jpg">
+				<h4>Pranjal Tiwari </h4>
+				<div class="viewer">
+					<p>Executive Member</p>
+					<p>Crossword</p>
+				</div>
+			</div>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="section5">
+		<div class="numbers">
+			<div class="number">
+				<div class="green">400+</div>
+				<div class="btext">Participants</div>
+			</div>
+			<div class="number">
+				<div class="green">20+</div>
+				<div class="btext">Participating Schools</div>
+			</div>
+			<div class="number">
+				<div class="green">7</div>
+				<div class="btext">Events</div>
+			</div>
+		</div>
+		<div id="events"></div>
+	</div>
+	
+	<div class="section6">
+		<div class="heading2">The Events</div>
+		<div class="subheading2">The crux of XINO 2020</div>
+		
+		<div class="boxes">
+			<div class="box">
+				<img src="hackathon.png">
+				<div class="econt">
+					<div class="eheads">HACKATHON</div>
+					<div class="etext">
+						This event was conceptualized for those who wish to be forerunners in this generation of technology. The preliminary submissions will be judged on the quality of the product and its functionality. After submission based online prelims, top 6-8 teams will make it to the onsite finals. The qualifying teams will also have to pitch their product to a panel of judges.
+						<br><br>
+						
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 4</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 1</div>
+				</div>
+			</div>
+			<div class="box">
+				<img src="quiz.png">
+				<div class="econt">
+					<div class="eheads">QUIZ</div>
+					<div class="etext">
+						We invite all curious enthusiasts to battle it out in this grueling quest for supremacy. In this closely fought battle, the quiz isn't over till it's over. Top six teams that qualify the written prelims will battle it out in the stage round.
+						<br><br>
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 2</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 1</div>
+				</div>
+			</div>
+			<div class="box">
+				<img src="cross.png">
+				<div class="econt">
+					<div class="eheads">CROSSWORD</div>
+					<div class="etext">
+						<i>"Think out of the box but inside the grid."</i>
+						<br><br>
+						Top six teams that qualify the written prelims will battle it out in the stage round.
+						<br><br>
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 2</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 1</div>
+				</div>
+			</div>
+			
+			<div class="box">
+				<img src="programming.png">
+				<div class="econt">
+					<div class="eheads">PROGRAMMING</div>
+					<div class="etext">
+						After an online preliminary contest, top 8 teams will make it to the onsite finals.
+						The preliminary round will take place on 15 July 2019 from 6 PM - 8 PM IST. A maximum of two teams per school can qualify for the on-site finals.<br><br>
+					</div>
+					<div class="det"><span class="bold">LANGUAGES ALLOWED (ON-SITE):</span>  C++, Python</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 1</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 2</div>
+				</div>
+			</div>
+			
+			<div class="box">
+				<img src="surprise.png">
+				<div class="econt">
+					<div class="eheads">SURPRISE</div>
+					<div class="etext">
+						We would tell you to expect the unexpected, but that would be too mainstream.
+						<br><br>
+						The battle is on, soldier.<br><br>
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 2</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 1</div>
+				</div>
+			</div>
+
+			<div class="box">
+				<img src="hardware.png">
+				<div class="econt">
+					<div class="eheads">HARDWARE</div>
+					<div class="etext">
+						Overlock your cells and ryze up to the challenge.
+						<br><br>
+						The event will consist of multiple online rounds which will test your depth in various categories.<br><br>
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 1</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> 2</div>
+				</div>
+			</div>
+
+			<div class="box" id="osmarathon">
+				<img src="osmarathon.png">
+				<div class="econt">
+					<div class="eheads">OPEN SOURCE MARATHON</div>
+					<div class="etext">
+						We all know how good it feels when a pull request created by us gets merged by the project maintainer. The contest will comprise of various tasks as a part of creating the main project. More details will be revealed on our facebook page soon. The contest will start on 14th July 2019 12:01 AM IST and end on 18th July 2019 11:59 PM IST.
+						<br><br>
+					</div>
+					<div class="det"><span class="bold">CATEGORY:</span> OPEN</div>
+					<div class="det"><span class="bold">NUMBER OF PARTICIPANTS:</span> 1</div>
+					<div class="det"><span class="bold">NUMBER OF TEAMS:</span> &infin;</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="section7">
+		<div class="heading2">Our Alumni </div>
+		<div class="subheading2">Our Pillars of Inspiration</div>
+		<div class="batch">Batch 2019-2020</div>
+		
+		<div class="alum">
+			<div class="al">
+				<div class="names">Sayam Kanwar</div>
+				<div class="post">President</div>
+			</div>
+			
+			<div class="al">
+				<div class="names">Vanshaj Vohra</div>
+				<div class="post">President</div>
+			</div>
+			
+			<div class="al">
+				<div class="names">Radhika Marwaha</div>
+				<div class="post">Head Photography</div>
+			</div>
+			
+			
+		</div>
+		<div class="fu">
+			<a href="alumni.html"><div class="button2 b">View All </div></a>
+		</div>
+	</div>
+	
+	<div class="footer">
+		<img src="LogoFull.png">
+		<br>
+		<div class="social">
+			<a href="https://www.facebook.com/XINO.DPSR/"><li><img src="fb.png"></li></a>
+			<a href="mailto:xino@dpsrohini.com"><li><img src="mail.png"></li></a>
+			<a href="tel:011 2705 5942"><li><img src="call.png"></li></a>
+		</div>
+	</div>
+	<script type="text/javascript">
+		$(document).scroll(function () {
+			var $nav = $(".topbar");
+			$nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+		});
+        $(document).ready(function(){
+          $(".event-details-btn").on('click', function(event) {
+            if (this.hash !== "") {
+              event.preventDefault();
+              var hash = this.hash;
+              $('html, body').animate({
+                scrollTop: $(hash).offset().top
+              }, 800, function(){
+              });
+            }
+          });
+        });
+	</script>
+</body>
+</html>
