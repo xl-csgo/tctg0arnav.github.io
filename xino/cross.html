@@ -11,8 +11,17 @@
 
     <title>X-Word (XINO | CROSSWORD)</title>
   </head>
-  <body>
-    <div class="container">
+  <body onblur="bc()">
+  	<div class="cheat">
+  		<div class="cont">
+  			<center>
+  				
+  			<h1>You are suspected of cheating</h1>
+  			<p>your account has been reported. You will be able to continue in 2 minutes</p>
+  			</center>
+  		</div>
+  	</div>
+    <div class="container" >
 		<br><br><br>
     	<center><h1>Xino X-Word Prelims</h1></center>
     	<br><br><br>
@@ -147,7 +156,29 @@
 			<button type="submit" class="btnx btn btn-success">Submit</button>
 		</form>
 	</div>
-    <script src="main.js"></script>
+    <script type="text/javascript">
+
+    
+function bc() {
+	console.log('out')
+
+	//makes the cheat div visible and makes the container div invisible
+    $('.container').attr('style','display: none');
+    $('.cheat').attr('style','display: initial');
+    setInterval(
+  function (){
+  	$('.container').attr('style','display: initial');
+    $('.cheat').attr('style','display: none');
+  },
+  5000 
+);
+
+    
+
+}
+
+
+    </script>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
