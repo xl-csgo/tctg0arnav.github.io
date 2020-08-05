@@ -1,4 +1,7 @@
 
+#tots{
+     display: inline-block;
+}
 @font-face {
     font-family: Cera Pro;
     src: url(fonts/cp_black_italic.otf);
@@ -91,3 +94,4 @@ h1,h4{
 input{
    color: #34D0B3; 
 }
+
