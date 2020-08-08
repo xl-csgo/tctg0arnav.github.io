@@ -1,0 +1,97 @@
+
+#tots{
+     display: inline-block;
+}
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_black_italic.otf);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_black.otf);
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_bold_italic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_light_italic.otf);
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_light.otf);
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_medium_italic.otf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_medium.otf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_thin_italic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Cera Pro;
+    src: url(fonts/cp_thin.otf);
+    font-weight: 300;
+    font-style: normal;
+}
+body{
+	background-color: #FAFAFE;
+    color: #34D0B3;
+
+}
+h1,h4{
+	color: #34D0B3;
+    margin:0.5em;
+}
+.btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
+    background-color: #FAFAFE !important;
+    color: #333 !important;
+}
+input{
+   color: #34D0B3; 
+}
+
