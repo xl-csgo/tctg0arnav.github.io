@@ -2709,6 +2709,10 @@ input, select, textarea {
 				background-color: #a9a9a9 ;
 			}
 
+			.tiles article.dreamhack > .image:before {
+				background-color: #FF5733  ;
+			}
+
 			.tiles article.style2 > .image:before {
 				background-color: #A98C66;
 			}
