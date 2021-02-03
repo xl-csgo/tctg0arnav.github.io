@@ -151,11 +151,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #F0A202 !important;
+			color: #f2849e !important;
 		}
 
 	strong, b {
-		font-weight: 600;
+		font-weight: 900;
 	}
 
 	em, i {
@@ -2706,31 +2706,27 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #a9a9a9 ;
-			}
-
-			.tiles article.dreamhack > .image:before {
-				background-color: #FF5733  ;
+				background-color: #f2849e;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #A98C66;
+				background-color: #7ecaf6;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #ff6600;
+				background-color: #7bd0c1;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #041424;
+				background-color: #c75b9b;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #04cae3;
+				background-color: #ae85ca;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #f2323c;
+				background-color: #8499e7;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
