@@ -1,0 +1,69 @@
+<!-- FILEPATH: /c:/Users/thecr/OneDrive/Desktop/iddris-ui/index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style>
+        .vertical-separator {
+            border-right: 3px solid #fff;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header class="navbar navbar-expand-lg navbar-light bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="logo-light.png" alt="Logo" height="50">
+            </a>
+            <h1 class="mx-auto text-light">IDDRIS</h1>
+            <div class="navbar-nav ml-auto">
+                <a class="nav-link" href="#"><button class="btn btn-outline-primary">Login</button></a>
+                <a class="nav-link" href="#"><button class="btn btn-outline-light">Signup</button></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container px-3 py-5">
+        <div class="card mb-3 bg-dark text-white">
+            <h3 class="card-header" style="text-align: center;">Integrated Deepfake Detection and Reconstruction of Image System (IDDRIS)</h3>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6 vertical-separator">
+                        <form action="#">
+                        <img src="https://placehold.co/300x200/png" alt="Placeholder Image" style="display: block; margin-left: auto; margin-right: auto;">
+                        <div>
+                            <label for="formFile" class="form-label mt-4">Select your file for testing</label>
+                            <input class="form-control" type="file" id="formFile">
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button class="btn btn-primary my-3" type="button">Submit</button>
+                        </div>
+                        </form>
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center">
+                        <div class="card text-white bg-danger mb-3 mx-auto" style="max-width: 20rem;">
+                            <div class="card-header">Warning!</div>
+                            <div class="card-body">
+                                <h4 class="card-title">Potential Deepfake Detected</h4>
+                                <p class="card-text">The uploaded image is likely a manipulated image. 
+                                Please be cautious of the source of the image.
+                                </p>
+                                <label for="disabledRange" class="form-label">IDDRIS Certainty: 83%</</label>
+                                <input type="range" class="form-range" id="disabledRange" disabled="" value="83">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-muted" style="text-align: center;">
+                &copy; Team IDDRIS 2024
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
