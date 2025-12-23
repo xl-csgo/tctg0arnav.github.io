@@ -1,4 +1,4 @@
-name = "hosting-cloudflare-worker"
+name = "hugo-blog-deploy"
 compatibility_date = "2025-07-31"
 
 [build]
