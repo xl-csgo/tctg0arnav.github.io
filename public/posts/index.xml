@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on xL&#39;s Blog</title>
+    <link>https://arnavshukla.co/posts/</link>
+    <description>Recent content in Posts on xL&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 01:14:50 +0530</lastBuildDate>
+    <atom:link href="https://arnavshukla.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Musings</title>
+      <link>https://arnavshukla.co/posts/general-musings/</link>
+      <pubDate>Wed, 24 Dec 2025 01:14:50 +0530</pubDate>
+      <guid>https://arnavshukla.co/posts/general-musings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>F1 Insights</title>
+      <link>https://arnavshukla.co/posts/f1-insights/</link>
+      <pubDate>Wed, 24 Dec 2025 01:14:41 +0530</pubDate>
+      <guid>https://arnavshukla.co/posts/f1-insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Counter Strike Tactics</title>
+      <link>https://arnavshukla.co/posts/counter-strike-tactics/</link>
+      <pubDate>Wed, 24 Dec 2025 01:14:30 +0530</pubDate>
+      <guid>https://arnavshukla.co/posts/counter-strike-tactics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reintroducing</title>
+      <link>https://arnavshukla.co/posts/reintroducing/</link>
+      <pubDate>Tue, 23 Dec 2025 19:14:11 +0530</pubDate>
+      <guid>https://arnavshukla.co/posts/reintroducing/</guid>
+      <description>&lt;p&gt;MEHE EMEMEMEMME&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
