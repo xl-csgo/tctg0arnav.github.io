@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>Esports on Terminal</title>
+    <link>//localhost:1313/tags/esports/</link>
+    <description>Recent content in Esports on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Mar 2026 09:37:55 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Media Control V0</title>
-      <link>//localhost:1313/posts/media-control-v0/</link>
-      <pubDate>Wed, 04 Mar 2026 09:37:55 +0530</pubDate>
-      <guid>//localhost:1313/posts/media-control-v0/</guid>
-      <description>&lt;p&gt;I love Tactile Inputs. My entire childhood was spent playing with “dumb” phones, Blackberrys, and telephones. The first media player I owned was a Sony Walkman B Series, with it’s crisp twist dial for changing songs, and the play/pause button that your hand could not miss. So to say I’m a bit dissapointed by the development of display-first UIs for every device in existence (including your car), would be an understatement.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="//localhost:1313/tags/esports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reintroducing</title>
       <link>//localhost:1313/posts/reintroducing/</link>

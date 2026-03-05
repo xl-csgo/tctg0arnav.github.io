@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Mar 2026 09:37:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello_world</title>
-      <link>http://localhost:1313/posts/hello_world/</link>
+      <title>Media Control V0</title>
+      <link>//localhost:1313/posts/media-control-v0/</link>
       <pubDate>Wed, 04 Mar 2026 09:37:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello_world/</guid>
-      <description>&lt;p&gt;Hello Wolrd?&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/media-control-v0/</guid>
+      <description>&lt;p&gt;I love Tactile Inputs. My entire childhood was spent playing with “dumb” phones, Blackberrys, and telephones. The first media player I owned was a Sony Walkman B Series, with it’s crisp twist dial for changing songs, and the play/pause button that your hand could not miss. So to say I’m a bit dissapointed by the development of display-first UIs for every device in existence (including your car), would be an understatement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reintroducing</title>
+      <link>//localhost:1313/posts/reintroducing/</link>
+      <pubDate>Wed, 04 Mar 2026 09:37:55 +0530</pubDate>
+      <guid>//localhost:1313/posts/reintroducing/</guid>
+      <description>&lt;p&gt;In 2020, I participated in an online cryptic hunt and won a free domain name as a prize. And after spending months unable to decide what to put on here, I eventually just downloaded a template from HTML5UP, and created a blog. With the end of the pandemic nowhere in sight, many—including myself—had turned to gaming as their means of escape.&lt;/p&gt;&#xA;&lt;p&gt;And Counter-Strike, a game I essentially stumbled onto thanks to a single session at the local LAN cafe years ago, became my playground of choice. So, as my understanding of the game’s history developed through countless hours spent pouring through Liquipedia pages, Thorin videos, and WarOwl match breakdowns, I decided to use this blog as a way to combine my “creative writing” chops with my burgeoning passion for this video game.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
